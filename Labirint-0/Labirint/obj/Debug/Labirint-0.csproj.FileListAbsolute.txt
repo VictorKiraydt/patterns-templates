@@ -1,0 +1,17 @@
+E:\univer\3curs\Паттерны\Labirint\Labirint-0\Labirint\bin\Debug\Labirint.exe.config
+E:\univer\3curs\Паттерны\Labirint\Labirint-0\Labirint\obj\Debug\Labirint.exe
+E:\univer\3curs\Паттерны\Labirint\Labirint-0\Labirint\obj\Debug\Labirint.pdb
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\Labirint.exe
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\Labirint.pdb
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\bin\Debug\Labirint.exe
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\bin\Debug\Labirint.pdb
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\Labirint-0.csprojResolveAssemblyReference.cache
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\MainWindow.g.cs
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\App.g.cs
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\Labirint_MarkupCompile.cache
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\Labirint_MarkupCompile.lref
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\MainWindow.baml
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\Labirint.g.resources
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\VictorKiraydt\Dropbox\BSU\Patterns\Labirint\Labirint-0\Labirint\obj\Debug\Labirint-0.csproj.GenerateResource.Cache

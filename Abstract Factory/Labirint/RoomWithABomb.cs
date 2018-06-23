@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Labirint
 {
-    class RoomWithBomb: Room
-    {
-        // Конструктор.
-           public RoomWithBomb(int roomNo) : base(roomNo) { }
-    }
+	class RoomWithBomb: Room
+	{
+		// Конструктор.
+		   public RoomWithBomb(int roomNo) : base(roomNo) { }
+	}
 }

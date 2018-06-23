@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Labirint
 {
-    class BoombedWall : Wall
-    {
-    }
+	class BoombedWall : Wall
+	{
+	}
 }

@@ -16,18 +16,18 @@ using System.Windows.Shapes;
 
 namespace Labirint
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
-    {
-        public MainWindow() {
-            InitializeComponent();
-            MazeFactory factory = new MazeFactory();
-            MazeGame game = new MazeGame();
-            game.CreateMaze(factory);
-        }
-        
+	/// <summary>
+	/// Interaction logic for MainWindow.xaml
+	/// </summary>
+	public partial class MainWindow : Window
+	{
+		public MainWindow() {
+			InitializeComponent();
+			MazeFactory factory = new MazeFactory();
+			MazeGame game = new MazeGame();
+			game.CreateMaze(factory);
+		}
+		
 
-    }
+	}
 }

@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Labirint
 {
-    class Wall: MapSite
-    {
-        public Wall() { }
-        public override void Enter()
-        {
-            Console.WriteLine("Wall");
-        }
-    }
-}
+	class Wall: MapSite
+	{
+		public Wall() { }
+		public override void Enter()
+		{
+			Console.WriteLine("Wall");
+		}
+	}
+}		
